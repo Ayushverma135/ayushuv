@@ -1,11 +1,11 @@
 <div>
  <!-- ayush image at at top -->
     <div align="center">
-        <a href="https://github.com/ayushuv"><img src="https://github.com/ayushuv/ayushuv/assets/120269805/32fe4981-e6bf-4381-8168-4d29bfdd82b8"></a>
+        <a href="https://github.com/ayushuv"><img src="https://github.com/Ayushverma135/ayushuv/assets/120269805/62e59f23-8ac5-412a-855d-6653f2cb0dfe"></a>
     </div>
     <!-- typing effect -->
     <div align="center">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mukta&size=30&pause=100&color=F0F4F7&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayush+Verma,;A+Android+Developer;A+Frontend+Developer;A+Cloud+Learner;And+AI%2FML+Enthusiast..." alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=700&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Ayush+Verma;A+Frontend+Developer;+A+Android+Developer;A+Cloud+Learner+and;AI-ML+Enthusiast...." alt="Typing SVG" /></a>
     </div>
     <div align="center">
     <a href="https://www.linkedin.com/in/ayush-verma-15912a229/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" width="37" height="35" style="margin-right: 10px;" /></a>
