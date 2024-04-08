@@ -1,7 +1,7 @@
 <div>
  <!-- ayush image at at top -->
     <div align="center">
-        <a href="https://github.com/ayushuv"><img src="https://github.com/Ayushverma135/ayushuv/assets/120269805/62e59f23-8ac5-412a-855d-6653f2cb0dfe"></a>
+        <a href="https://github.com/Ayushverma135"><img src="https://github.com/Ayushverma135/ayushuv/assets/120269805/62e59f23-8ac5-412a-855d-6653f2cb0dfe"></a>
     </div>
     <!-- typing effect -->
     <div align="center">
@@ -111,15 +111,15 @@ About Me = [
 <div align="center"><h3><b>GitHub Stats</b></h3></div>
 <div align="center">
 
-![ayushuv's Stats](https://github-readme-stats.vercel.app/api?username=ayushuv&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![Ayushverma135's Stats](https://github-readme-stats.vercel.app/api?username=Ayushverma135&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
 <hr>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ayushuv&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ayushverma135&theme=dark)](https://git.io/streak-stats)
 
 <hr>
 
- ![ayushuv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushuv&theme=dark&show_icons=true&hide_border=false&layout=compact)
+ ![Ayushverma135's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushverma135&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 <hr>
 </div>
