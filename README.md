@@ -1,14 +1,14 @@
 <div>
  <!-- ayush image at at top -->
     <div align="center">
-        <a href="https://github.com/SkMishra77"><img src="https://github.com/ayushuv/ayushuv/assets/120269805/32fe4981-e6bf-4381-8168-4d29bfdd82b8"></a>
+        <a href="https://github.com/ayushuv"><img src="https://github.com/ayushuv/ayushuv/assets/120269805/32fe4981-e6bf-4381-8168-4d29bfdd82b8"></a>
     </div>
     <!-- typing effect -->
     <div align="center">
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mukta&size=30&pause=100&color=F0F4F7&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayush+Verma,;A+Android+Developer;A+Frontend+Developer;A+Cloud+Learner;And+AI%2FML+Enthusiast..." alt="Typing SVG" /></a>
     </div>
     <div align="center">
-    <a href="https://www.linkedin.com/in/skmishra77/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" width="37" height="35" style="margin-right: 10px;" /></a>
+    <a href="https://www.linkedin.com/in/ayush-verma-15912a229/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" width="37" height="35" style="margin-right: 10px;" /></a>
     <a href="mailto:ayushuv135@gmail.com"><img src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" width="37" height="35" style="margin-right: 10px;" /></a>
     <a href="https://t.me/Ayushverma135"><img src="https://i.pinimg.com/originals/31/2a/f9/312af9235aadad69655688eaee97eabf.png" width="35" height="35" style="margin-right: 10px;" /></a>
 </div>
@@ -111,7 +111,7 @@ About Me = [
 <div align="center"><h3><b>GitHub Stats</b></h3></div>
 <div align="center">
 
-![skmishra77's Stats](https://github-readme-stats.vercel.app/api?username=ayushuv&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![ayushuv's Stats](https://github-readme-stats.vercel.app/api?username=ayushuv&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
 <hr>
 
@@ -119,7 +119,7 @@ About Me = [
 
 <hr>
 
- ![skmishra77's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushuv&theme=dark&show_icons=true&hide_border=false&layout=compact)
+ ![ayushuv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushuv&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 <hr>
 </div>
