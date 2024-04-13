@@ -127,6 +127,6 @@ About Me = [
 
 ```bash
     Created By AYUSH VERMA
-    2024©Adaye ALL RIGHT RESERVED
+    2024©PERFECT CUBE ALL RIGHT RESERVED
 ```
 
