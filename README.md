@@ -5,7 +5,7 @@
     </div>
     <!-- typing effect -->
     <div align="center">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=700&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Ayush+Verma;A+Frontend+Developer;+A+Android+Developer;A+Cloud+Learner+and;AI-ML+Enthusiast...." alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=700&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Ayush+Verma;A+Frontend+Developer;+An+Android+Developer;A+Cloud+Learner+and;AI-ML+Enthusiast...." alt="Typing SVG" /></a>
     </div>
     <div align="center">
     <a href="https://www.linkedin.com/in/ayush-verma-15912a229/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" width="37" height="35" style="margin-right: 10px;" /></a>
