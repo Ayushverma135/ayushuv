@@ -124,6 +124,10 @@ About Me = [
 <hr>
 </div>
 
+![snake gif](https://github.com/Ayushverma135/Ayushverma135/blob/output/github-contribution-grid-snake.svg)
+
+
+
 
 ```bash
     Copyright (c) 2022-2032 Ayush Verma and the PerfectCube Team
