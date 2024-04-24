@@ -21,8 +21,9 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Set outputs
-        run: echo "GIF_PATH=${{ steps.snake-gif.outputs.gif_out_path }}" >> $GITHUB_ENV
-              echo "SVG_PATH=${{ steps.snake-gif.outputs.svg_out_path }}" >> $GITHUB_ENV
+        run: |
+          echo "GIF_PATH=${{ steps.snake-gif.outputs.gif_out_path }}" >> $GITHUB_ENV
+          echo "SVG_PATH=${{ steps.snake-gif.outputs.svg_out_path }}" >> $GITHUB_ENV
 
       - name: Show status
         run: git status
