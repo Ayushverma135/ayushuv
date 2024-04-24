@@ -22,8 +22,8 @@ jobs:
 
       - name: Set outputs
         run: |
-          echo "GIF_PATH=${{ steps.snake-gif.outputs.gif_out_path }}" >> $GITHUB_ENV
-          echo "SVG_PATH=${{ steps.snake-gif.outputs.svg_out_path }}" >> $GITHUB_ENV
+          echo "GIF_PATH=${{ steps.snake-gif.outputs.gif_out_path }}" >> $GITHUB_OUTPUT
+          echo "SVG_PATH=${{ steps.snake-gif.outputs.svg_out_path }}" >> $GITHUB_OUTPUT
 
       - name: Show status
         run: git status
