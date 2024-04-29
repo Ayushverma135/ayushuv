@@ -33,8 +33,8 @@ Proficient in languages such as Python, Java, C, C++, Kotlin and Dart empowers m
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>🤔 <b>I’m currently open for</b>: A new Internship opportunity and Open Source Projects.
             </li>
-            <!-- <li>👨‍💻 <b>All of my projects are available at</b>: <a href="">My Portfolio</a>.</li>
-            <li>⚡ Fun fact: <b>I think I am funny</b>.</li> -->
+            <li>👨‍💻 <b>All of my projects are available at</b>: <a href="https://ayushverma135.github.io/My-Portfolio/">My Portfolio</a>.</li>
+            <li>⚡ Fun fact: <b>I think I am funny</b>.</li>
         </ul>
         <br />
     </div>
