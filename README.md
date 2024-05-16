@@ -47,10 +47,8 @@ About Me = [
 ]
 ```
 <div align="center">
-    <h1>Skill Set 💪</h1>
-    <h4>These are some of the major technologies that I use or have worked on in the past:</h4>
+<!--     <h1>Skill Set 💪</h1> --><img src="https://capsule-render.vercel.app/api?type=transparent&height=150&color=gradient&text=Skill%20set&desc=These%20are%20some%20of%20the%20major%20technologies%20that%20I%20use%20or%20have%20worked%20on%20in%20the%20past&fontColor=0077b6&descAlign=50&descAlignY=78"/>
 </div>
-
 <div align="center">
     <h3><b>Frontend Development</b></h3>
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" title="HTML5" alt="html5" width="40" height="40"/></a></code>&nbsp;
