@@ -120,6 +120,14 @@ About Me = [
  ![Ayushverma135's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushverma135&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 <hr>
+
+[![Ayush's github activity](https://github-readme-activity-graph.vercel.app/graph?username=Ayushverma135&theme=react-dark)]()
+
+<hr>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/ayushuv135?ext=activity)
+
+<hr>
 </div>
 
 ## Watch Snake Eating my Github Contributions: 🐍
