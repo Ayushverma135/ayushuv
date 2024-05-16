@@ -150,5 +150,5 @@ About Me = [
 
 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&reversal=true&descAlign=5"/>
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=true&descAlign=5"/>
 </p>
