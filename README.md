@@ -27,9 +27,9 @@ Proficient in languages such as Python, Java, C, C++, Kotlin and Dart empowers m
         </p>
         <h1></h1>
         <ul>
-            <li>🔭 <b>I’m currently working on</b>: Athena, Crawler, S3, EC2...etc .</li>
-            <li>🌱 <b>I’m currently learning</b>:Data Analytics using AWS</li>
-            <li>💬 <b>Ask me about</b>: Web Development, Android App Developments and Competetive Programming.</li>
+            <li>🔭 <b>I’m currently working on</b>: SAS Programming, Athena, Crawler, S3...etc .</li>
+            <li>🌱 <b>I’m currently learning</b>:SAS Programming and Data Analytics using AWS</li>
+            <li>💬 <b>Ask me about</b>: Web Development, SAS Programmer, Data Analyst, Android App Developments and Competetive Programming.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>🤔 <b>I’m currently open for</b>: A new Internship opportunity and Open Source Projects.
             </li>
