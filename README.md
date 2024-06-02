@@ -50,7 +50,7 @@ About Me = [
 ]
 ```
 <div align="center">
-    <h1>🧠Skills Set 🦾🤖</h1>
+    <h1>🧠Skills Set👻</h1>
     <h4>Demonstrated expertise in several key technologies. 🛰 I've utilized or been engaged with.👨‍💻📈</h4>
 </div>
 <div align="center">
