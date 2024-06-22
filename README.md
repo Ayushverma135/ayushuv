@@ -12,9 +12,8 @@
     <a href="mailto:ayushuv135@gmail.com"><img src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" width="37" height="35" style="margin-right: 10px;" /></a>
     <a href="https://t.me/Ayushverma135"><img src="https://i.pinimg.com/originals/31/2a/f9/312af9235aadad69655688eaee97eabf.png" width="35" height="35" style="margin-right: 10px;" /></a>
     <a href="https://api.whatsapp.com/send?phone=916393868175"><img src="https://github.com/Ayushverma135/Ayushverma135/assets/120269805/a63dc3b2-47ca-497c-8302-d32abcad18ed" width="35" height="35" style="margin-right: 10px;" /></a>
-
-
 </div>
+
 <div align="left">
         <br />
         <p>
@@ -169,7 +168,7 @@ About Me = [
     DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-
+ ![](https://komarev.com/ghpvc/?username=Ayushverma135&abbreviated=true&style=flat-square)
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=true&descAlign=5"/>
